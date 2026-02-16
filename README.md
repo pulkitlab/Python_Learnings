@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-My Python practice projects and exercises while learning from **Python Crash Course (3rd Edition)**.
+My Python practice projects and exercises !
 
 ## Projects
 
